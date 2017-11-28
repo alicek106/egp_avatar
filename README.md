@@ -15,4 +15,4 @@ alicek106/avatar:0.4_canaria
 0.5 : FIX unix timestamp
 0.5_full_unix_2 : CHANGE to full unix timestamp
 0.6 : FIX error catching in mqtt messaging
-
+0.7 : FIX validation of json string
